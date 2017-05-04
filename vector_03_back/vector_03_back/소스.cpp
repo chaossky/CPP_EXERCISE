@@ -20,6 +20,7 @@ int main() {
 		myvector.push_back(myvector.back() - 1);	
 	}
 
+	//print the elements in vector using index
 	cout << "my vector contains :"  ;
 	for (unsigned i = 0; i < myvector.size(); i++) 
 	{
