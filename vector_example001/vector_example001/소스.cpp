@@ -1,4 +1,4 @@
-//include
+//include iostream , vector and algorithm
 #include<iostream>
 #include<vector>
 #include<algorithm>
@@ -6,7 +6,7 @@
 using namespace std;
 
 int main() {
-	//declare vector
+	//declare vector named temps
 	vector<double> temps;
 
 	//input vector elements
