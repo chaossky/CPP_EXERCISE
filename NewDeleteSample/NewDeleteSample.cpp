@@ -4,8 +4,6 @@
 #include "stdafx.h"
 #include <iostream>
 
-
-
 int _tmain(int argc, _TCHAR* argv[])
 {
 	//인스턴스 만 동적으로 생성하는 경우
