@@ -6,7 +6,6 @@
 #include<iostream>
 #include<cstdio>
 
-
 int _tmain(int argc, _TCHAR* argv[]) {
 	int nAge;
 	std::cout << "나이를 입력하세요. " << std::endl;
